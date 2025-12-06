@@ -31,4 +31,4 @@ Bu repo en sade haliyle iki ana klasörden oluşur:
 3.  **Profesyonellik:** Commit mesajlarınız açıklayıcı olmalıdır. (Örn: `feat: Task-00 sunumu eklendi` ✅ | `dosya attim` ❌).
 4.  **Format:** Aksi belirtilmedikçe sunumlar **PDF** formatında yüklenmelidir.
 
-Başarılar! Geleceğin yarış mühendisleri. 🏁a
+Başarılar! Geleceğin yarış mühendisleri. 🏁
