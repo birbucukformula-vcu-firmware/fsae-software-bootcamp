@@ -1,7 +1,7 @@
 
 # 🏁 FSAE Yazılım Ekibi - Bootcamp 2025
 
-Bu repo, **[Takım Adı]** yazılım ekibi aday mühendisleri için hazırlanan eğitim ve ödev takip sistemidir.
+Bu repo, **birbucukformula** yazılım ekibi aday mühendisleri için hazırlanan eğitim ve ödev takip sistemidir.
 
 ## 🎯 Amaç
 Sıfırdan başlayarak bir Formula Student aracını kodlayacak seviyeye (Gömülü C, STM32, CAN Bus) gelmek.
