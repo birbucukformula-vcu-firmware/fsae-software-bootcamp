@@ -1,7 +1,6 @@
 # 🏎️ Görev 2: İleri Seviye Gaz Pedalı Algoritması (ADC & Safety)
 
 ## 🎯 Amaç: Gerçek Dünya Verisiyle Çalışmak
-Bir önceki seviyede size hazır yüzdeler vermiştik. Ancak gerçek dünyada sensörler (Potansiyometre veya Hall Effect) bize anlamsız **Voltaj Değerleri (ADC)** üretir.
 
 Bu görevde bir Gömülü Yazılımcı gibi davranacak; ham veriyi işleyecek, voltaj sınırlarını denetleyecek ve güvenli sürüşü sağlayacaksınız.
 
